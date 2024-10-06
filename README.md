@@ -67,7 +67,7 @@ Start the server
 
 
 <img src="./assets/landing-pg.png">
-
+<img src="./assets/editing-pg.png">
 
 
 
