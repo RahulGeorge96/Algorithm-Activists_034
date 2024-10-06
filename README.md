@@ -66,6 +66,9 @@ Start the server
 - Search Documents.
 
 
+<img src="./assets/landing-pg.png">
+
+
 
 
 
