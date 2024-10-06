@@ -44,17 +44,17 @@ Start the server
   
 ## Tech Stack
 
-**Frontend:** HTML, CSS, React.js,Typescript,Next.js   
+**Frontend:** HTML, CSS, Next.js, Typescript <br/>
 *libraries:* Redux, ChakraUI, axios, React-router-dom, react-icons
                                    
-**Backend:** Convex,Clerk,EdgeStore
+**Backend:** Convex, Clerk , EdgeStore
 
 
 # Project Type
 - Frontend | Backend
 
 # Deployed Link
-- https://notion-application.vercel.app/
+- https://realdocs-application.vercel.app/
 
 # Presentation Link
 -
