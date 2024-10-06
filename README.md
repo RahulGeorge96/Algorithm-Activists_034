@@ -54,7 +54,7 @@ Start the server
 - Frontend | Backend
 
 # Deployed Link
-- https://notion-application.vercel.app/
+- https://realdocs-application.vercel.app/
 
 # Presentation Link
 -
