@@ -65,8 +65,10 @@ Start the server
 - Rich Text Editing.
 - Search Documents.
 
-
+**Landing Page**
 <img src="./assets/landing-pg.png">
+
+**Editing Page**
 <img src="./assets/editing-pg.png">
 
 
