@@ -1,5 +1,5 @@
 # Algorithim-Activists_034
-Project for Real Time Notion Like Application.
+Project for **Real Time Notion Like Application**.
 
 # Real Docs
 RealDocs is a web-based document management and note-taking application inspired by Notion. It enables users to create, edit, organize, and manage their content in a highly customizable and user-friendly environment. The application combines rich-text editing, collaborative features, and a flexible workspace structure,making it ideal for personal productivity or team-based documentation workflows.
