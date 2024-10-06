@@ -44,7 +44,7 @@ Start the server
   
 ## Tech Stack
 
-**Frontend:** HTML, CSS, React.js,Typescript,Next.js   
+**Frontend:** HTML, CSS, React.js , Typescript, Next.js   
 *libraries:* Redux, ChakraUI, axios, React-router-dom, react-icons
                                    
 **Backend:** Convex,Clerk,EdgeStore
