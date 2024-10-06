@@ -71,6 +71,8 @@ Start the server
 **Editing Page**
 <img src="./assets/editing-pg.png">
 
+**Markdown Features**
+<img src="./assets/markdown.png">
 
 
 
